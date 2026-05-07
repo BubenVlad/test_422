@@ -6,3 +6,5 @@ if anasver == "Круг":
 else:
     print ("На жаль, ні")
 
+print('тест на запит')
+print('da da da')
